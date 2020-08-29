@@ -1,0 +1,6 @@
+# William ClI
+CLI to create projects and more
+
+## Create .Net Core Project
+* ...
+* ...
